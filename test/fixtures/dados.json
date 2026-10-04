@@ -1,0 +1,16 @@
+{
+  "admin": {
+    "email": "admin@escola.com",
+    "senha": "admin123"
+  },
+  "novoAluno": {
+    "nome": "Aluno Teste Automatizado",
+    "email": "aluno.teste.automatizado@example.com",
+    "matricula": "2026999",
+    "senha": "senhaTeste123"
+  },
+  "trabalho": {
+    "disciplinaId": "disciplina-matematica",
+    "titulo": "Trabalho de Teste Automatizado"
+  }
+}
